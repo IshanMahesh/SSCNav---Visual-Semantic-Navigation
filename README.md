@@ -163,7 +163,7 @@ The command to evaluate the provided Q model with ACNet semantic segmentation ou
 python test_agent.py --user_semantics --seg_pretrained /local/crv/yiqing/result/train_seg/10.pth --Q_pretrained /local/crv/yiqing/result/s_cu_chal_4/60000.pth --cmplt --cmplt_pretrained /local/crv/yiqing/result/train_cmplt_resized_seg/16_cd.pth --conf --conf_pretrained /local/crv/yiqing/result/train_conf_seg_6/6_fd.pth               
 ```
 
-## BibTeX
+## Blibliogradphy/ Citation
 ```
 @inproceedings{liang2021sscnav,
     title={SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation},
@@ -172,6 +172,15 @@ python test_agent.py --user_semantics --seg_pretrained /local/crv/yiqing/result/
     year={2021}
 }
 ```
+
+[Yiqing Liang](https://yiqing-liang.netlify.app/)<sup>1</sup>,
+[Boyuan Chen](http://www.cs.columbia.edu/~bchen/)<sup>1</sup>,
+[Shuran Song](https://www.cs.columbia.edu/~shurans/)<sup>1</sup>
+<br>
+<sup>1</sup>Columbia University
+<br>
+[ICRA 2021](http://www.icra2021.org/)
+
 
 ## License
 
