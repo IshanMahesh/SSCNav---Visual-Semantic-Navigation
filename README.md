@@ -1,8 +1,8 @@
 
 # SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation
 
-[Ishan Kharat](https://ishankharat.netlify.app/)sup>1</sup>,
-[Rohit Menon - Ph.D.](https://www.phenorob.de/)<sup>1</sup>,
+[Ishan Kharat](https://ishankharat.netlify.app/)sup>1</sup>
+[Rohit Menon - Ph.D.](https://www.phenorob.de/)<sup>1</sup>
 <br>
 <sup>1</sup>University of Bonn
 
